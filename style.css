@@ -1,0 +1,24 @@
+.logo-txt {
+    font-size: 34px;
+    text-decoration: overline;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.home {
+    color: brown;
+    text-align: center;
+    justify-content: baseline;
+    font-style: italic;
+}
+
+h1 {
+    color: blue;
+    font-size: large;
+
+}
+
+#list {
+    color: azure;
+}
